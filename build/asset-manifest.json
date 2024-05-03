@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tesla-clone/static/css/main.4d259d92.css",
+    "main.js": "/tesla-clone/static/js/main.b0d6ed3c.js",
+    "static/media/GothamSSm-Book_Web.woff2": "/tesla-clone/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
+    "index.html": "/tesla-clone/index.html",
+    "main.4d259d92.css.map": "/tesla-clone/static/css/main.4d259d92.css.map",
+    "main.b0d6ed3c.js.map": "/tesla-clone/static/js/main.b0d6ed3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d259d92.css",
+    "static/js/main.b0d6ed3c.js"
+  ]
+}
